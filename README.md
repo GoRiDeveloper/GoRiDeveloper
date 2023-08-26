@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Govanni González Rivera</h1>
-<h3 align="center">soy un desarrollador mern stack de México</h3>
+<h3 align="center">Soy un Desarrollador MERN Stack de México</h3>
 
 - 🔭 Actualmente estoy trabajando en un proyecto de NoCountry [MeddyPlus](https://github.com/No-Country/c13-34-t-node-react)
 
