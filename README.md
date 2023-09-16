@@ -14,7 +14,7 @@
 - ⚡ Algo divertido **Tengo 4 hijos gatos**
 
 <h3 align="left">Conecta conmigo:</h3>
-<p align="left"> https://www.linkedin.com/in/govanni-rivera-desarrollador-mern-nodejs/
+<p align="left"> https://www.linkedin.com/in/govanni-rivera-desarrollador-full-stack/
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
